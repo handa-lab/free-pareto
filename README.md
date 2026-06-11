@@ -73,6 +73,24 @@ python pareto.py
 
 ---
 
+## フィードバック・ご要望
+
+実際に使ってみての感想・欲しい機能があればぜひ教えてください。
+
+→ [現場エンジニアへのアンケート（Google フォーム）](https://forms.gle/ZPgzZXjPArhmY6Jr6)
+
+---
+
+## 最新ツール・記事を受け取る
+
+HandaLab では製造現場向けの Python ツール・解説記事を継続発信中です。  
+更新を受け取りたい方は **Zenn または note のフォロー**をどうぞ。
+
+- Zenn（技術記事）→ https://zenn.dev/handa_lab
+- note（ツール紹介）→ https://note.com/handa_lab
+
+---
+
 ## ライセンス
 
 MIT License — 商用・業務利用可、改変自由、コピペ歓迎。
